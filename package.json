@@ -1,0 +1,36 @@
+{
+  "name": "next-js-template",
+  "type": "module",
+  "scripts": {
+    "fmt": "prettier --write .",
+    "lint": "eslint",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "devDependencies": {
+    "@eslint-react/eslint-plugin": "^5.18.1",
+    "@tailwindcss/postcss": "^4.3.3",
+    "@types/node": "26.1.2",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "babel-plugin-react-compiler": "^1.0.0",
+    "eslint": "^10.8.0",
+    "eslint-config-prettier": "^10.1.8",
+    "eslint-plugin-id-match": "github:NightSpaceC/eslint-plugin-id-match#master",
+    "eslint-plugin-jsx-a11y": "^6.10.2",
+    "eslint-plugin-react-refresh": "^0.5.3",
+    "globals": "^17.8.0",
+    "prettier": "^3.9.6",
+    "tailwindcss": "^4.3.3",
+    "typescript": "^6.0.3",
+    "typescript-eslint": "^8.65.0"
+  },
+  "dependencies": {
+    "immer": "^11.1.15",
+    "next": "^16.2.12",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "use-immer": "^0.11.0"
+  }
+}
