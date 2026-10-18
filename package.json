@@ -9,28 +9,28 @@
     "start": "next start"
   },
   "devDependencies": {
-    "@eslint-react/eslint-plugin": "^5.18.1",
+    "@eslint-react/eslint-plugin": "^5.28.0",
     "@tailwindcss/postcss": "^4.3.3",
     "@types/node": "26.1.2",
-    "@types/react": "^19.2.18",
-    "@types/react-dom": "^19.2.4",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
     "babel-plugin-react-compiler": "^1.0.0",
-    "eslint": "^10.8.0",
+    "eslint": "^10.13.0",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-id-match": "github:NightSpaceC/eslint-plugin-id-match#master",
     "eslint-plugin-jsx-a11y": "^6.10.2",
-    "eslint-plugin-react-refresh": "^0.5.3",
-    "globals": "^17.8.0",
-    "prettier": "^3.9.6",
+    "eslint-plugin-react-refresh": "^0.5.7",
+    "globals": "^17.13.0",
+    "prettier": "^3.9.10",
     "tailwindcss": "^4.3.3",
     "typescript": "^6.0.3",
-    "typescript-eslint": "^8.65.0"
+    "typescript-eslint": "^8.71.2"
   },
   "dependencies": {
-    "immer": "^11.1.15",
-    "next": "^16.2.12",
-    "react": "^19.2.8",
-    "react-dom": "^19.2.8",
+    "immer": "^11.1.21",
+    "next": "^16.4.2",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
     "use-immer": "^0.11.0"
   }
 }
